@@ -1,0 +1,23 @@
+name: Levi
+favicon: null
+layout_spectrum: 0.3440935625694692
+typography_spectrum: 0.3788761324249208
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.6240140746813267
+  lightness: 0.20091880997642875
+  saturation: 0.16887179063633084
+  rhythmicContrast: 0.8237261457834393
+purpose: []
